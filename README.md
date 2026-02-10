@@ -6,5 +6,7 @@ Simple console game written in Python.
 ```bash
 python game.py
 
+
+
 ## Project status
 Educational project for GitHub activity.
