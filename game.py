@@ -6,3 +6,4 @@ if guess == number:
     print("You win!")
 else:
     print("Try again")
+print(f"Correct number was {number}")
